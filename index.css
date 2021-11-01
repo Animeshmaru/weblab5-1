@@ -48,10 +48,6 @@
     align-items: center;
     justify-content:center;
   }
-  pre{
-    color: darkcyan;
-
-  }
   .steps_cont{
     margin-top: 2rem;
     display: flex;
@@ -59,12 +55,15 @@
     align-items: flex-start;
     width: 30rem;
   }
-
+  
   .eg_start{
     margin-top: 1rem;
   }
   .eg{
     margin-top: 0.7rem;
+  }
+  pre{
+    color: darkcyan;
   }
   .footer{
     margin-top: 4rem;
